@@ -6,14 +6,14 @@ trial of the experiment.<br> <br>
 ## Prerequisite
 1. Python3 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="30px">
 
-## <img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/graph.gif" width="40px"> How to install this tool?
+## How to install this tool?
 ```py
 $git clone https://github.com/Stem-O/Probability-Distribution
 ```
-## <img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/graph.gif" width="40px"> How to run this tool?
+## How to run this tool?
 ```py
 python3 probability_distribution.py <number of x values>
 ```
-## <img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/graph.gif" width="40px"> Demo
+## Demo
 <img src="https://i.ibb.co/f97WsZY/Screenshot-2022-02-19-22-46-38.png">
 

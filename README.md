@@ -6,11 +6,11 @@ The probability distribution of a discrete random variable X is a list of each p
 ```py
 $git clone https://github.com/Stem-O/Probability-Distribution
 ```
-## How to run this tool?
+## <img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/graph.gif" width="40px"> How to run this tool?
 ```py
 python3 probability_distribution.py <number of x values>
 ```
-## Demo
+## <img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/graph.gif" width="40px"> Demo
 <img src="https://i.ibb.co/f97WsZY/Screenshot-2022-02-19-22-46-38.png">
 
 ### Prerequisites

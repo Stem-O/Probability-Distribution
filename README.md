@@ -1,7 +1,7 @@
 ## Probability-Distribution of a Discrete Random Variable
 The probability distribution of a discrete random variable X is a list of each possible value of X together with the probability that X takes that value in one trial of the experiment.
 
-## How to use this tool?
+## How to install this tool?
 ```py
 $git clone https://github.com/Stem-O/Probability-Distribution
 ```

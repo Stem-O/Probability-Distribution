@@ -20,8 +20,8 @@ Traceback (most recent call last):
 IndexError: list index out of range
 ```
 
-```py
-python3 probability_distribution.py <number of x values>
+```bash
+$python3 probability_distribution.py <number of x values>
 ```
 ## Demo
 <img src="https://i.ibb.co/f97WsZY/Screenshot-2022-02-19-22-46-38.png">

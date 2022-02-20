@@ -43,15 +43,12 @@ def get_mean():
             gathered_pofx.append(float(i) * float(j))
         mean = sum(gathered_pofx)
         global_mean.append(mean)
-        print(global_mean[0])
     except ValueError:
         print("─" * 43)
         print(Fore.WHITE + "[" + Fore.RED + "-" + Fore.WHITE + "]Values cannot be empty.")
         print("─" * 43)
 
 def get_variance():
-    print(data)
-    print(pofx_data)
     for i,j in zip(data,pofx_data):
         squared_values.append(math.pow(float(i) - float(global_mean[0]),2))
     for i,j in zip(squared_values,pofx_data):

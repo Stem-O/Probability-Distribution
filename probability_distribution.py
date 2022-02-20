@@ -63,7 +63,7 @@ def get_variance():
 
 def answers():
     table = zip(data, pofx_data, gathered_pofx, squared_values, tovariance_values)
-    headers = [dataname, "P(X)", "X = P(X)", "(X - μ)2","(X-μ)2 * P(X)"]
+    headers = [dataname, "P(X)", "X * P(X)", "(X - μ)2","(X-μ)2 * P(X)"]
     print(tabulate(table,headers,tablefmt="fancy_grid"))
     print(f"{Fore.GREEN}Interpretation: {Fore.WHITE}Therefore, the variance of a probability distribution is equal to {math.ceil(global_variance[0] * 100) / 100}  while the standard deviation is equal to {math.ceil(global_standard_deviation[0] * 100) / 100}.")
 banner()

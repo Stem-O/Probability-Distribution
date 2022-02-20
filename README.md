@@ -11,6 +11,13 @@ trial of the experiment.<br> <br>
 $git clone https://github.com/Stem-O/Probability-Distribution
 ```
 ## How to run this tool?
+<p>While running the tool you must supply with an integer as an argument otherwise it will return an IndexError</p>
+```py
+Traceback (most recent call last):
+  File "probability_distribution.py", line 6, in <module>
+    arg = sys.argv[1]
+IndexError: list index out of range
+```
 ```py
 python3 probability_distribution.py <number of x values>
 ```

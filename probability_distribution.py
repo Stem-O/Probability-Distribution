@@ -13,7 +13,7 @@ def banner():
                    ║║│└─┐│  ├┬┘├┤  │ ├┤
                   ═╩╝┴└─┘└─┘┴└─└─┘ ┴ └─┘                                                      """ + Fore.WHITE)
     print("─" * 43)
-    print(Fore.GREEN  + "Github:" + Fore.WHITE + " https://github.com/FonderElite")
+    print(Fore.GREEN  + "Github:" + Fore.WHITE + " https://github.com/Stem-O")
     print("─" * 43)
     time.sleep(1)
 

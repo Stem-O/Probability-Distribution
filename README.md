@@ -10,7 +10,7 @@ $git clone https://github.com/Stem-O/Probability-Distribution
 python3 probability_distribution.py <number of x values>
 ```
 ## Demo
-<img src="https://ibb.co/k0KCXjN">
+<img src="https://i.ibb.co/4MWrpzh/Screenshot-2022-02-19-22-33-37.png">
 
 ### Prerequisites
 1. Python3

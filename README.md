@@ -13,4 +13,4 @@ python3 probability_distribution.py <number of x values>
 <img src="https://i.ibb.co/4MWrpzh/Screenshot-2022-02-19-22-33-37.png">
 
 ### Prerequisites
-1. Python3
+1. Python3 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="30px">

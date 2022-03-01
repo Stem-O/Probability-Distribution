@@ -57,6 +57,11 @@ def get_variance():
     global_variance.append(variance)
     standard_deviation = math.sqrt(variance)
     global_standard_deviation.append(standard_deviation)
+    
+def get_z():
+    z = float(data[0]) - float(global_mean[0]) / float(global_standard_deviation[0])
+    global_z.append(z)
+    print(f"{Fore.GREEN}Z-Value: {Fore.WHITE}{z}")
 
 def answers():
     table = zip(data, pofx_data, gathered_pofx, squared_values, tovariance_values)
@@ -68,5 +73,6 @@ probability_distribution(arg)
 get_mean()
 get_variance()
 answers()
+get_z()
 
 
